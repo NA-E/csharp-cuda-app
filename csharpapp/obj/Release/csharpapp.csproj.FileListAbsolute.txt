@@ -1,0 +1,6 @@
+D:\cuda\csharpapp\csharpapp\bin\Release\csharpapp.exe.config
+D:\cuda\csharpapp\csharpapp\bin\Release\csharpapp.exe
+D:\cuda\csharpapp\csharpapp\bin\Release\csharpapp.pdb
+D:\cuda\csharpapp\csharpapp\obj\Release\csharpapp.csproj.CoreCompileInputs.cache
+D:\cuda\csharpapp\csharpapp\obj\Release\csharpapp.exe
+D:\cuda\csharpapp\csharpapp\obj\Release\csharpapp.pdb

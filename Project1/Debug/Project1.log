@@ -1,0 +1,4 @@
+﻿  MyFunc.cpp
+     Creating library D:\cuda\csharpapp\Debug\Project1.lib and object D:\cuda\csharpapp\Debug\Project1.exp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\cuda\csharpapp\Debug\Project1.exe : fatal error LNK1120: 1 unresolved externals
